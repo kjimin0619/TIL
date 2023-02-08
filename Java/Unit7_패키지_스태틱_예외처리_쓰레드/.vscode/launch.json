@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountDate",
+            "request": "launch",
+            "mainClass": "CountDate",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionTest",
+            "request": "launch",
+            "mainClass": "ExceptionTest",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionalPG",
+            "request": "launch",
+            "mainClass": "FunctionalPG",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingletonPattern",
+            "request": "launch",
+            "mainClass": "SingletonPattern",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stream",
+            "request": "launch",
+            "mainClass": "Stream",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadExample",
+            "request": "launch",
+            "mainClass": "ThreadExample",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadRunnable",
+            "request": "launch",
+            "mainClass": "ThreadRunnable",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch HousePark",
+            "request": "launch",
+            "mainClass": "house.HousePark",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "house.Sample",
+            "projectName": "Unit7_82ebde56"
+        },
+        {
+            "type": "java",
+            "name": "Launch EungYongPark",
+            "request": "launch",
+            "mainClass": "house.person.EungYongPark",
+            "projectName": "Unit7_82ebde56"
+        }
+    ]
+}
