@@ -98,7 +98,7 @@ def merge(left, right) :
     
     return sorted_list
 
-if __name__ == "__main__" :
+if __name__ == '__main__' :
     print("정렬 알고리즘 - 선택, 버블, 삽입, 병합")
     
     # 정렬 결과 확인하기
